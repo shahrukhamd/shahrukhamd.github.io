@@ -70,15 +70,15 @@ hr.star-light:after {
   color: white;
 }
 hr.star-header:after {
-  background-color: #F44336;
+  background-color: #4CAF50;
   color: white;
 }
 hr.star-about-me:after {
-  background-color: #2196F3;
+  background-color: #F44336;
   color: white;
 }
 hr.star-timeline:after {
-  background-color: #4CAF50;
+  background-color: #2196F3;
   color: white;
 }
 hr.star-skills:after {
