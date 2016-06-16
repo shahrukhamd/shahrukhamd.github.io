@@ -2,7 +2,7 @@
 layout: post
 title:  "Earthquake App"
 date:   2016-06-04 00:28:48 -0400
-img: img/earthquakeapp.png
+img: img/earthquake_app.png
 modalID: modalEarthquakeApp
 ---
 An android application which fetches the earthquakes data from USGS server and inflates the app screen with the list of earthquakes in a very elegant and easy to navigate manner.
@@ -42,12 +42,16 @@ It means that earthquakes of different magnitudes will be shown via different co
 
 <b>Language(s)</b> - Java, XML
 
+<div class="col-lg-12 text-center" style="margin-top: 10px">
+  <div class="fb-like" data-href="https://play.google.com/store/apps/details?id=com.shahrukhamd.earthquakeapp" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+
+<div class="col-lg-12 text-center" style="margin: 10px">
+  <div class="g-plusone" data-href="https://play.google.com/store/apps/details?id=com.shahrukhamd.earthquakeapp"></div>
+</div>
+
 <div class="row">
   <div class="col-lg-12 text-center">
     <a href='https://play.google.com/store/apps/details?id=com.shahrukhamd.earthquakeapp&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='100' /></a>
   </div>
 </div>
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
