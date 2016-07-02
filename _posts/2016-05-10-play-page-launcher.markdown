@@ -2,7 +2,7 @@
 layout: post
 title:  "App's Play Page Launcher"
 date:   2016-05-10 00:28:48 -0400
-img: img/play_page_launcher.png
+img: img/portfolio/play_page_launcher.png
 modalID: modalPlayPageLauncher
 ---
 Got tired of repeated work like going to play store and searching for an app to check it's details, comments, ratings etc? Well, I've made that hustle an easy peasy job.<br/>

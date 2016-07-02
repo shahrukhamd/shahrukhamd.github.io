@@ -2,7 +2,7 @@
 layout: post
 title:  "Appset"
 date:   2016-05-04 00:28:48 -0400
-img: img/appset.png
+img: img/portfolio/appset.png
 modalID: modalAppset
 ---
 <b>Note: This is a beta app (public testing app) which means that it may have some bugs and might show some unexpected errors. Please report the bugs</b>.<br/>

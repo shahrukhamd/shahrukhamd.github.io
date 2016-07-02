@@ -2,7 +2,7 @@
 layout: post
 title:  "Earthquake App"
 date:   2016-06-04 00:28:48 -0400
-img: img/earthquake_app.png
+img: img/portfolio/earthquake_app.png
 modalID: modalEarthquakeApp
 ---
 An android application which fetches the earthquakes data from USGS server and inflates the app screen with the list of earthquakes in a very elegant and easy to navigate manner.
