@@ -17,16 +17,17 @@ The United States Geological Survey (USGS) is a science organization of the Unit
 <br/>
 <b>Features:</b>
 
-** NO ADS **<br/>
-- Latest quakes from worldwide.<br/>
-- Shows details of an earthquake.<br/>
-- Filter what you want to see via different filters.<br/>
-- Shows earthquakes on Google map.<br/>
-- Colour coded pins on map and list.<br/>
-- Shows earthquakes from the past hour, day, week or even a month.<br/>
-- Choose between different types of map.<br/>
-- Share earthquake details to others.<br/>
-- Shows the distance between you and the quake.<br/>
+Latest quakes from worldwide.<br/>
+Shows details of an earthquake.<br/>
+Filter what you want to see via different filters.<br/>
+Shows earthquakes on Google map.<br/>
+Colour coded pins on map and list.<br/>
+Shows earthquakes from the past hour, day, week or even a month.<br/>
+Choose between different types of map.<br/>
+Share earthquake details to others.<br/>
+Shows the distance between you and the quake.<br/>
+(New) Earthquakes can be pinned.<br/>
+(New) Search for an earthquake.<br/>
 <br/>
 <b>What does color coded mean?</b>
 
@@ -40,7 +41,6 @@ It means that earthquakes of different magnitudes will be shown via different co
 
 <b>Note</b>: Some quakes takes longer than usual to show up. I can't do anything about it as I don't own the database servers.<br/>
 
-<b>Language(s)</b> - Java, XML
 
 <div class="col-lg-12 text-center" style="margin-top: 10px">
   <div class="fb-like" data-href="https://play.google.com/store/apps/details?id=com.shahrukhamd.earthquakeapp" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
