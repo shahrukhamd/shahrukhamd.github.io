@@ -9,7 +9,7 @@
 title: Shahrukh Ahmed Siddiqui
 email: shahrukh.amd@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Computer Science Enthusiast
+  A Computers & Technology Enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sasiddiqui.com" # the base hostname & protocol for your site
 
@@ -19,12 +19,6 @@ github_username:  shahrukhamd
 facebook_username: shahrukhamd
 stack_username: shahrukhamd
 google_plus_username: shahrukhamd
-
-# Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
 
 # Build settings
 markdown: kramdown

@@ -70,11 +70,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-header:after {
-  background-color: #EF5350;
+  background-color: #4CAF50;
   color: white;
 }
 hr.star-about-me:after {
-  background-color: #4CAF50;
+  background-color: #546E7A;
   color: white;
 }
 hr.star-timeline:after {
