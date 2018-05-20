@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-body {
+ body {
   overflow-x: hidden;
 }
 p {
@@ -417,4 +417,16 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+.btn-social {
+  display: flex;
+}
+
+.btn-social i {
+  margin: auto;
+}
+
+body {
+  background-color: #4CAF50;
 }
