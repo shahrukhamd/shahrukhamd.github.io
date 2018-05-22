@@ -94,11 +94,11 @@ header {
   background: white;
   color: black;
 }
-header .container {w
-  padding-top: 10%;
-  padding-bottom: 10%;
-  padding-right: 5%;
-  padding-left: 5%;
+header .container {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 header img {
   display: block;
@@ -117,10 +117,10 @@ header .intro-text .skills {
 }
 @media (min-width: 768px) {
   header .container {
-    padding-top: 10%;
-    padding-bottom: 10%;
-    padding-right: 5%;
-    padding-left: 5%;
+  padding-top: 100px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
   }
   header .intro-text .name {
     font-size: 4em;
