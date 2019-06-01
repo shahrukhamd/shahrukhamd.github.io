@@ -428,3 +428,8 @@ footer .footer-below {
 body {
   background-color: white;
 }
+
+.profile-pic {
+  width: 200px;
+  border-radius: 50%;
+}
